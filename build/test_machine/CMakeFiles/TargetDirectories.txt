@@ -1,0 +1,9 @@
+/home/artem/test_ws/build/test_machine/CMakeFiles/uninstall.dir
+/home/artem/test_ws/build/test_machine/CMakeFiles/test_machine_uninstall.dir
+/home/artem/test_ws/build/test_machine/CMakeFiles/test.dir
+/home/artem/test_ws/build/test_machine/CMakeFiles/edit_cache.dir
+/home/artem/test_ws/build/test_machine/CMakeFiles/rebuild_cache.dir
+/home/artem/test_ws/build/test_machine/CMakeFiles/list_install_components.dir
+/home/artem/test_ws/build/test_machine/CMakeFiles/install.dir
+/home/artem/test_ws/build/test_machine/CMakeFiles/install/local.dir
+/home/artem/test_ws/build/test_machine/CMakeFiles/install/strip.dir

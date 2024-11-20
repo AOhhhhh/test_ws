@@ -1,0 +1,1 @@
+/home/artem/test_ws/src/test_machine/launch/rsp.launch.py
